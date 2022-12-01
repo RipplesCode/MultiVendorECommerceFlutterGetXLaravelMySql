@@ -1,4 +1,4 @@
-# Multivendor Ecommerec Flutter GetX Laravel MySql
+# Multivendor Ecommerece Flutter GetX Laravel MySql
 
 # Donate
 
