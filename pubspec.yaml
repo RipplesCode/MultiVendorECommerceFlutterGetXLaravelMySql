@@ -1,0 +1,35 @@
+name: multivendor_ecommerce_flutter_getx
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.18.4 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  get_storage: ^2.0.3
+  google_fonts: ^3.0.1
+  internet_connection_checker: ^0.0.1+4
+  cached_network_image: ^3.2.1
+  lottie: ^1.4.1
+  skeletons: ^0.0.3
+  carousel_slider: ^4.1.1
+  flutter_spinkit: ^5.1.0
+  dio: ^4.0.6
+  bottom_navy_bar: ^6.0.0
+
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    - lottie/
+    - svg/

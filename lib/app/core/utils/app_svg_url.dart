@@ -1,0 +1,4 @@
+class AppSvgUrl {
+  AppSvgUrl._();
+ 
+}

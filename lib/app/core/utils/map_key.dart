@@ -1,0 +1,5 @@
+class MapKey {
+  MapKey._();
+ 
+   
+}

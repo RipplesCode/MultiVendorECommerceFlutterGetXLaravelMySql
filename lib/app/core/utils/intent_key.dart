@@ -1,0 +1,4 @@
+class IntentKey {
+  IntentKey._();
+ 
+}

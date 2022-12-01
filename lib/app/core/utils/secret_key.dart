@@ -1,0 +1,5 @@
+class SecretKey
+{
+  SecretKey._();
+ 
+}

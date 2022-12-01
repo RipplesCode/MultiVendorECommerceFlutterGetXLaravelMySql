@@ -1,0 +1,4 @@
+class AppImageUrl {
+  AppImageUrl._();
+ 
+}
